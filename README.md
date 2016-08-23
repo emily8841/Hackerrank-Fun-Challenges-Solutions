@@ -1,1 +1,1 @@
-#Various Hackerrank Challenges and my Solutions 
+#Various Fun Challenges on Hackerrank and my Solutions 
